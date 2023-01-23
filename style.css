@@ -95,7 +95,7 @@ Applies to both front and back */
   height: 100%;
 }
 
-/* ss */
+/* back of the card is at first "rotated" and not seen. They are rotated in reverse with one-another */
 .card-back {
   transform: rotateY(180deg);
 }
